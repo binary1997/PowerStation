@@ -1,0 +1,47 @@
+.pages{
+    height: 100vh;
+}
+.za-tabs--vertical .za-tabs__tab {
+    font-size: 35px;
+    padding: 0.3rem 0.3rem;
+}
+.custom-height{
+    height: 100vh;
+}
+
+.item{
+    font-size: 30px;
+    padding: 0.2rem;
+    margin: 0.2rem;
+    background-color: #0081ff;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 0.05rem;
+    border-radius: 0.1rem;
+}
+
+.noneItem{
+    color: #999;
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    text-align: center;
+    margin-top: 40vh;
+}
+
+.za-nav-bar{
+    padding: 0.3rem 0.3rem;
+    height: auto;
+}
+
+.za-nav-bar__title{
+    font-size: 35px;
+   
+}
+.za-icon--md {
+    font-size: 35px;
+}
+.panels{
+    border-top: 2px solid rgba(0, 0, 0, 0.1);
+}

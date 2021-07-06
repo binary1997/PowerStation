@@ -1,0 +1,12 @@
+.za-cell__inner{
+    font-size: 30px;
+    padding: 0.2rem 0.3rem;
+    height: auto;
+}
+.za-cell__footer{
+    font-size: 30px;
+}
+.za-cell__arrow:after{
+    width: 20px;
+    height: 20px;
+}

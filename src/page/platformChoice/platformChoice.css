@@ -1,0 +1,48 @@
+.pageButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.buttonSet {}
+
+.Choicebtn {
+    width: 6rem;
+    height: 6rem;
+    background: #00e8ff;
+    border-radius: 50%;
+    text-align: center;
+    margin: 1rem auto;
+    font-size: 80px;
+    line-height: 6rem;
+    color: #fff;
+    /* filter: blur(10px) brightness(80%) opacity(.8); */
+
+}
+
+.JShine {
+    background: #FF416C;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FF4B2B, #FF416C);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    box-shadow: 0 0 0.15rem 0.01rem #FF416C;
+
+}
+
+
+
+
+.blue {
+    background: #00B4DB;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0083B0, #00B4DB);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0083B0, #00B4DB);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    box-shadow: 0 0 0.15rem 0.01rem #00B4DB;
+}
+
+
