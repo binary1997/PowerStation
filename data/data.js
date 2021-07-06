@@ -80,54 +80,55 @@ const IntelProfileSheet = [
     identifyNumber: "intel34",
     configuration: [
       {
-        configurationName: "办公电脑 3633",
-        aggregate: "3633",
-        creationTime:"2021年7月5日",
+        configurationName: "办公电脑 3783",
+        aggregate: "3783",
+        creationTime: "2021年7月5日",
         detailedConfiguration: {
           CPU: {
             productName: "英特尔 i5-11400",
             price: "1499",
-            name:"CPU",
-            link:"https://u.jd.com/6EPEV0X"
+            name: "CPU",
+            link: "https://u.jd.com/6EPEV0X",
           },
           mainboard: {
-            productName: "微星 B550M 迫击炮电脑主板",
-            price: "749",
-            name:"主板",
-            link:"https://u.jd.com/6APJmgP"
+            productName: "微星 B560M 迫击炮电脑主板",
+            price: "899",
+            name: "主板",
+            link: "https://u.jd.com/6B0cihm",
           },
           memory: {
             productName: "光威 8GB DDR4 2666",
             price: "249",
-            name:"内存",
-            link:"https://u.jd.com/6jPPFYs"
+            name: "内存",
+            link: "https://u.jd.com/6jPPFYs",
           },
           heatDissipation: {
             productName: "利民 AS120 CPU风冷散热器",
             price: "109",
-            name:"散热",
-            link:"https://u.jd.com/67PvzFC"
+            name: "散热",
+            link: "https://u.jd.com/67PvzFC",
           },
           SSD: {
             productName: "铠侠 500GB RC10 固态硬盘",
             price: "409",
-            name:"固态硬盘",
-            link:"https://u.jd.com/6cPA6s3"
+            name: "固态硬盘",
+            link: "https://u.jd.com/6cPA6s3",
           },
           crate: {
             productName: "先马 黑洞",
             price: "299",
-            name:"机箱",
-            link:"https://u.jd.com/6NPT4EL"
+            name: "机箱",
+            link: "https://u.jd.com/6NPT4EL",
           },
           powerSupply: {
             productName: "酷冷至尊 GX450 450W电源",
             price: "319",
-            name:"电源",
-            link:"https://u.jd.com/64PSkfe"
+            name: "电源",
+            link: "https://u.jd.com/64PSkfe",
           },
         },
       },
+      
     ],
   },
   {
@@ -138,7 +139,57 @@ const IntelProfileSheet = [
   {
     name: "5001-6000",
     identifyNumber: "intel56",
-    configuration: [],
+    configuration: [
+      {
+        configurationName: "办公电脑 5283",
+        aggregate: "5283",
+        creationTime: "2021年7月6日",
+        detailedConfiguration: {
+          CPU: {
+            productName: "英特尔 i7-11700",
+            price: "2499",
+            name: "CPU",
+            link: "https://u.jd.com/6T0TCQ4",
+          },
+          mainboard: {
+            productName: "微星 B560M 迫击炮电脑主板",
+            price: "899",
+            name: "主板",
+            link: "https://u.jd.com/6B0cihm",
+          },
+          memory: {
+            productName: "金士顿 16GB(8G×2)套装 DDR4 3200",
+            price: "699",
+            name: "内存",
+            link: "https://u.jd.com/6c0ZnEr",
+          },
+          heatDissipation: {
+            productName: "利民 AS120PLUS CPU风冷散热器",
+            price: "169",
+            name: "散热",
+            link: "https://u.jd.com/6z0T1FD",
+          },
+          SSD: {
+            productName: "三星500GB 固态硬盘 980",
+            price: "499",
+            name: "固态硬盘",
+            link: "https://u.jd.com/6J07i0O",
+          },
+          crate: {
+            productName: "先马 黑洞",
+            price: "299",
+            name: "机箱",
+            link: "https://u.jd.com/6NPT4EL",
+          },
+          powerSupply: {
+            productName: "航嘉 500W JUMPER500S",
+            price: "219",
+            name: "电源",
+            link: "https://u.jd.com/6W0JfTA",
+          },
+        },
+      },
+    ],
   },
   {
     name: "6001-7000",
@@ -204,5 +255,3 @@ const AMDProfileSheet = [
     configuration: [],
   },
 ];
-
-
