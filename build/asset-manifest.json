@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.df5a4776.chunk.css",
-    "main.js": "/static/js/main.8e57547e.chunk.js",
-    "main.js.map": "/static/js/main.8e57547e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.077d912e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.077d912e.js.map",
-    "static/css/2.c7955a35.chunk.css": "/static/css/2.c7955a35.chunk.css",
-    "static/js/2.9c1098ab.chunk.js": "/static/js/2.9c1098ab.chunk.js",
-    "static/js/2.9c1098ab.chunk.js.map": "/static/js/2.9c1098ab.chunk.js.map",
-    "static/js/3.6e139811.chunk.js": "/static/js/3.6e139811.chunk.js",
-    "static/js/3.6e139811.chunk.js.map": "/static/js/3.6e139811.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.c7955a35.chunk.css.map": "/static/css/2.c7955a35.chunk.css.map",
-    "static/css/main.df5a4776.chunk.css.map": "/static/css/main.df5a4776.chunk.css.map",
-    "static/js/2.9c1098ab.chunk.js.LICENSE.txt": "/static/js/2.9c1098ab.chunk.js.LICENSE.txt"
+    "main.css": "/binary1997/PowerStation/static/css/main.f75b2e3e.chunk.css",
+    "main.js": "/binary1997/PowerStation/static/js/main.8e57547e.chunk.js",
+    "main.js.map": "/binary1997/PowerStation/static/js/main.8e57547e.chunk.js.map",
+    "runtime-main.js": "/binary1997/PowerStation/static/js/runtime-main.197aa923.js",
+    "runtime-main.js.map": "/binary1997/PowerStation/static/js/runtime-main.197aa923.js.map",
+    "static/css/2.c7955a35.chunk.css": "/binary1997/PowerStation/static/css/2.c7955a35.chunk.css",
+    "static/js/2.9c1098ab.chunk.js": "/binary1997/PowerStation/static/js/2.9c1098ab.chunk.js",
+    "static/js/2.9c1098ab.chunk.js.map": "/binary1997/PowerStation/static/js/2.9c1098ab.chunk.js.map",
+    "static/js/3.6e139811.chunk.js": "/binary1997/PowerStation/static/js/3.6e139811.chunk.js",
+    "static/js/3.6e139811.chunk.js.map": "/binary1997/PowerStation/static/js/3.6e139811.chunk.js.map",
+    "index.html": "/binary1997/PowerStation/index.html",
+    "static/css/2.c7955a35.chunk.css.map": "/binary1997/PowerStation/static/css/2.c7955a35.chunk.css.map",
+    "static/css/main.f75b2e3e.chunk.css.map": "/binary1997/PowerStation/static/css/main.f75b2e3e.chunk.css.map",
+    "static/js/2.9c1098ab.chunk.js.LICENSE.txt": "/binary1997/PowerStation/static/js/2.9c1098ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.077d912e.js",
+    "static/js/runtime-main.197aa923.js",
     "static/css/2.c7955a35.chunk.css",
     "static/js/2.9c1098ab.chunk.js",
-    "static/css/main.df5a4776.chunk.css",
+    "static/css/main.f75b2e3e.chunk.css",
     "static/js/main.8e57547e.chunk.js"
   ]
 }

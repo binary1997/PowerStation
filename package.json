@@ -2,6 +2,7 @@
   "name": "diy_computer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/binary1997/PowerStation",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
